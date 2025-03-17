@@ -1,0 +1,27 @@
+---
+title: "联系方式"
+---
+
+## 个人联系信息
+
+- **电子邮件**: [mingzhang@example.edu](mailto:mingzhang@example.edu)
+- **办公电话**: +86-10-62773888
+- **个人主页**: [https://mingzhang-phd.github.io](https://mingzhang-phd.github.io)
+
+## 学术资料
+
+- **Google Scholar**: [https://scholar.google.com/citations?user=MingZhangID](https://scholar.google.com/citations?user=MingZhangID)
+- **ORCID**: [https://orcid.org/0000-0002-1234-5678](https://orcid.org/0000-0002-1234-5678)
+- **ResearchGate**: [https://www.researchgate.net/profile/Ming-Zhang](https://www.researchgate.net/profile/Ming-Zhang)
+- **GitHub**: [https://github.com/mingzhang-phd](https://github.com/mingzhang-phd)
+
+## 工作地址
+
+清华大学计算机科学与技术系  
+北京市海淀区清华园1号  
+100084
+
+## 办公时间
+
+周一至周五: 9:00 - 17:00 (北京时间)  
+请提前通过电子邮件预约会面时间

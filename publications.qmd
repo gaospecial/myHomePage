@@ -1,0 +1,46 @@
+---
+title: "研究成果"
+---
+
+## 期刊论文
+
+1. **Zhang, M.**, Li, J., & Wang, T. (2024). "Attention-based Multi-scale Feature Fusion for Medical Image Segmentation." *IEEE Transactions on Medical Imaging*, 43(2), 578-591. [https://doi.org/10.1109/tmi.2024.12345](https://doi.org/10.1109/tmi.2024.12345)
+
+2. Li, J., **Zhang, M.**, & Chen, H. (2023). "Privacy-preserving Federated Learning Framework for Healthcare Data Analysis." *Nature Machine Intelligence*, 5(8), 623-635. [https://doi.org/10.1038/s42256-023-00123-8](https://doi.org/10.1038/s42256-023-00123-8)
+
+3. **Zhang, M.**, Wang, T., & Li, J. (2022). "Self-supervised Representation Learning for Electronic Health Records." *Journal of Biomedical Informatics*, 128, 104051. [https://doi.org/10.1016/j.jbi.2022.104051](https://doi.org/10.1016/j.jbi.2022.104051)
+
+4. Chen, H., **Zhang, M.**, & Wang, T. (2021). "Explainable Deep Learning Models for Medical Diagnosis: Challenges and Opportunities." *Artificial Intelligence in Medicine*, 118, 102114. [https://doi.org/10.1016/j.artmed.2021.102114](https://doi.org/10.1016/j.artmed.2021.102114)
+
+## 会议论文
+
+1. **Zhang, M.**, Li, J., & Chen, H. (2024). "MedViT: Vision Transformer Adaptation for Reliable Disease Detection in Limited-data Scenarios." In *Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS 2024)*, Online, pp. 3245-3257.
+
+2. **Zhang, M.** & Wang, T. (2023). "Contrastive Learning for Anomaly Detection in Medical Images." In *Proceedings of the 25th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2023)*, Sydney, Australia, pp. 423-435.
+
+3. Li, J., Chen, H., & **Zhang, M.** (2022). "Few-shot Learning Framework for Rare Disease Diagnosis from Medical Images." In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)*, New Orleans, USA, pp. 8721-8730.
+
+4. **Zhang, M.**, Wang, T., & Li, J. (2021). "Uncertainty-aware Deep Learning for Reliable Clinical Decision Support." In *Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (AISTATS 2021)*, Virtual Conference, pp. 1542-1553.
+
+## 预印本
+
+1. **Zhang, M.**, Chen, H., & Li, J. (2024). "Transformer-based Multimodal Fusion for Medical Time Series Analysis." *arXiv preprint arXiv:2401.12345*. [https://arxiv.org/abs/2401.12345](https://arxiv.org/abs/2401.12345)
+
+2. **Zhang, M.** & Wang, T. (2023). "Foundation Models for Healthcare: Opportunities and Limitations." *medRxiv preprint*. [https://doi.org/10.1101/2023.05.12.23290123](https://doi.org/10.1101/2023.05.12.23290123)
+
+## 专利
+
+1. 张明, 李教授, 王教授. (2024). 一种基于深度学习的医学影像智能诊断系统. 中国发明专利, 申请号: CN202410123456.X
+
+2. Zhang, M., Li, J., & Wang, T. (2023). Method and System for Privacy-preserving Medical Image Analysis. U.S. Patent Application No. 17/123,456.
+
+## 软件与数据集
+
+1. **MedSegNet**: 医学影像分割开源工具包  
+   [https://github.com/mingzhang-phd/MedSegNet](https://github.com/mingzhang-phd/MedSegNet)
+
+2. **HealthFederated**: 医疗数据联邦学习框架  
+   [https://github.com/mingzhang-phd/HealthFederated](https://github.com/mingzhang-phd/HealthFederated)
+
+3. **MedAnomaly**: 医学影像异常检测数据集  
+   [https://doi.org/10.5281/zenodo.9876543](https://doi.org/10.5281/zenodo.9876543)

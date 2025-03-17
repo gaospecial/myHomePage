@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Dr. 张明 | Ming Zhang, Ph.D."
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: 首页
+      - href: education.qmd
+        text: 教育经历
+      - href: publications.qmd
+        text: 研究成果
+      - href: awards.qmd
+        text: 荣誉奖项
+      - href: contact.qmd
+        text: 联系方式
+  page-footer:
+    center: 
+      - text: "© 2025 Dr. 张明. 保留所有权利。"
+
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+    link-external-newwindow: true
