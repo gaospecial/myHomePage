@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "教育经历",
+    "section": "",
+    "text": "清华大学 | 北京 | 2020年9月 - 2025年1月\n\n论文题目：《基于深度学习的医学影像异常检测方法研究》\n导师：李教授（人工智能研究所）\n研究方向：医学影像分析、机器学习\n\n\n\n\n上海交通大学 | 上海 | 2017年9月 - 2020年6月\n\n论文题目：《多模态医疗数据融合算法研究与应用》\n导师：王教授（数据科学实验室）\n主修课程：高级机器学习、计算机视觉、数据挖掘\n\n\n\n\n浙江大学 | 杭州 | 2013年9月 - 2017年6月\n\n毕业设计：《基于深度学习的医学图像分割系统》\n主修课程：数据结构、算法分析、人工智能导论、软件工程"
+  },
+  {
+    "objectID": "education.html#学术背景",
+    "href": "education.html#学术背景",
+    "title": "教育经历",
+    "section": "",
+    "text": "清华大学 | 北京 | 2020年9月 - 2025年1月\n\n论文题目：《基于深度学习的医学影像异常检测方法研究》\n导师：李教授（人工智能研究所）\n研究方向：医学影像分析、机器学习\n\n\n\n\n上海交通大学 | 上海 | 2017年9月 - 2020年6月\n\n论文题目：《多模态医疗数据融合算法研究与应用》\n导师：王教授（数据科学实验室）\n主修课程：高级机器学习、计算机视觉、数据挖掘\n\n\n\n\n浙江大学 | 杭州 | 2013年9月 - 2017年6月\n\n毕业设计：《基于深度学习的医学图像分割系统》\n主修课程：数据结构、算法分析、人工智能导论、软件工程"
+  },
+  {
+    "objectID": "education.html#专业培训",
+    "href": "education.html#专业培训",
+    "title": "教育经历",
+    "section": "专业培训",
+    "text": "专业培训\n\n深度学习暑期学校\n加州大学伯克利分校 | 美国 | 2022年7月 - 2022年8月\n深入学习最新的深度学习理论和应用，参与实践项目和研讨会。\n\n\n医学信息学研讨会\n斯坦福大学 | 美国（线上） | 2021年3月\n学习医疗数据分析的最新方法和伦理考量。"
+  },
+  {
+    "objectID": "education.html#技能",
+    "href": "education.html#技能",
+    "title": "教育经历",
+    "section": "技能",
+    "text": "技能\n\n编程语言\n\nPython (高级)\nR (中级)\nJava (中级)\nC++ (基础)\n\n\n\n框架与工具\n\nTensorFlow & PyTorch\nScikit-learn\nMATLAB\nDocker\nGit\n\n\n\n语言能力\n\n中文 (母语)\n英语 (流利，TOEFL 110)\n日语 (基础)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "欢迎来到我的个人学术网站",
+    "section": "",
+    "text": "我是张明博士，一名刚刚在计算机科学领域获得博士学位的研究者。我的研究方向主要集中在机器学习和人工智能在医疗健康领域的应用。通过将先进的数据分析技术与临床应用相结合，我致力于开发能够提高诊断精度和治疗效果的算法和系统。\n在我的博士研究期间，我开发了一种新的深度学习架构，用于从医学影像中自动检测早期疾病特征。此方法在多个公开数据集上展现出优于现有技术的性能，为临床决策支持系统提供了新的可能性。\n除了研究工作外，我还热衷于科学教育和知识传播。我相信技术进步应当惠及所有人，并致力于使复杂的技术概念更容易被理解和应用。\n我期待与来自各个领域的专家合作，共同探索科技如何为社会创造更多价值。"
+  },
+  {
+    "objectID": "index.html#关于我",
+    "href": "index.html#关于我",
+    "title": "欢迎来到我的个人学术网站",
+    "section": "",
+    "text": "我是张明博士，一名刚刚在计算机科学领域获得博士学位的研究者。我的研究方向主要集中在机器学习和人工智能在医疗健康领域的应用。通过将先进的数据分析技术与临床应用相结合，我致力于开发能够提高诊断精度和治疗效果的算法和系统。\n在我的博士研究期间，我开发了一种新的深度学习架构，用于从医学影像中自动检测早期疾病特征。此方法在多个公开数据集上展现出优于现有技术的性能，为临床决策支持系统提供了新的可能性。\n除了研究工作外，我还热衷于科学教育和知识传播。我相信技术进步应当惠及所有人，并致力于使复杂的技术概念更容易被理解和应用。\n我期待与来自各个领域的专家合作，共同探索科技如何为社会创造更多价值。"
+  },
+  {
+    "objectID": "index.html#研究兴趣",
+    "href": "index.html#研究兴趣",
+    "title": "欢迎来到我的个人学术网站",
+    "section": "研究兴趣",
+    "text": "研究兴趣\n\n机器学习与深度学习\n医学影像分析\n医疗健康信息学\n可解释人工智能\n数据隐私与安全"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "联系方式",
+    "section": "",
+    "text": "电子邮件: mingzhang@example.edu\n办公电话: +86-10-62773888\n个人主页: https://mingzhang-phd.github.io"
+  },
+  {
+    "objectID": "contact.html#个人联系信息",
+    "href": "contact.html#个人联系信息",
+    "title": "联系方式",
+    "section": "",
+    "text": "电子邮件: mingzhang@example.edu\n办公电话: +86-10-62773888\n个人主页: https://mingzhang-phd.github.io"
+  },
+  {
+    "objectID": "contact.html#学术资料",
+    "href": "contact.html#学术资料",
+    "title": "联系方式",
+    "section": "学术资料",
+    "text": "学术资料\n\nGoogle Scholar: https://scholar.google.com/citations?user=MingZhangID\nORCID: https://orcid.org/0000-0002-1234-5678\nResearchGate: https://www.researchgate.net/profile/Ming-Zhang\nGitHub: https://github.com/mingzhang-phd"
+  },
+  {
+    "objectID": "contact.html#工作地址",
+    "href": "contact.html#工作地址",
+    "title": "联系方式",
+    "section": "工作地址",
+    "text": "工作地址\n清华大学计算机科学与技术系\n北京市海淀区清华园1号\n100084"
+  },
+  {
+    "objectID": "contact.html#办公时间",
+    "href": "contact.html#办公时间",
+    "title": "联系方式",
+    "section": "办公时间",
+    "text": "办公时间\n周一至周五: 9:00 - 17:00 (北京时间)\n请提前通过电子邮件预约会面时间"
+  },
+  {
+    "objectID": "awards.html",
+    "href": "awards.html",
+    "title": "荣誉奖项",
+    "section": "",
+    "text": "清华大学优秀博士学位论文奖\n为表彰在医学影像分析领域的创新研究成果\n中国计算机学会(CCF)优秀博士学位论文奖\n全国年度仅授予20篇在计算机科学领域有突出贡献的博士论文\n\n\n\n\n\n国家奖学金（博士）\n教育部颁发，表彰学术成就和科研创新\nMICCAI 2023 最佳学生论文奖\n国际医学图像计算与计算机辅助干预会议\nIEEE ISBI 青年科学家旅行奖\n生物医学成像国际研讨会\n\n\n\n\n\n谷歌博士奖学金\n支持在人工智能领域有潜力的博士研究生\n清华大学优秀研究生\n表彰学术和科研表现突出的研究生\n\n\n\n\n\n中国人工智能学会优秀青年论文奖\n表彰在人工智能领域做出突出贡献的青年学者\n清华大学学术创新奖\n表彰在学术研究中展现创新能力的研究生\n\n\n\n\n\n上海交通大学优秀硕士论文奖\n表彰具有创新性和实用价值的硕士论文"
+  },
+  {
+    "objectID": "awards.html#学术奖项",
+    "href": "awards.html#学术奖项",
+    "title": "荣誉奖项",
+    "section": "",
+    "text": "清华大学优秀博士学位论文奖\n为表彰在医学影像分析领域的创新研究成果\n中国计算机学会(CCF)优秀博士学位论文奖\n全国年度仅授予20篇在计算机科学领域有突出贡献的博士论文\n\n\n\n\n\n国家奖学金（博士）\n教育部颁发，表彰学术成就和科研创新\nMICCAI 2023 最佳学生论文奖\n国际医学图像计算与计算机辅助干预会议\nIEEE ISBI 青年科学家旅行奖\n生物医学成像国际研讨会\n\n\n\n\n\n谷歌博士奖学金\n支持在人工智能领域有潜力的博士研究生\n清华大学优秀研究生\n表彰学术和科研表现突出的研究生\n\n\n\n\n\n中国人工智能学会优秀青年论文奖\n表彰在人工智能领域做出突出贡献的青年学者\n清华大学学术创新奖\n表彰在学术研究中展现创新能力的研究生\n\n\n\n\n\n上海交通大学优秀硕士论文奖\n表彰具有创新性和实用价值的硕士论文"
+  },
+  {
+    "objectID": "awards.html#竞赛奖项",
+    "href": "awards.html#竞赛奖项",
+    "title": "荣誉奖项",
+    "section": "竞赛奖项",
+    "text": "竞赛奖项\n\n2023 年\n\nRSNA Intracranial Hemorrhage Detection Challenge 第2名\n放射学会北美年会举办的颅内出血检测国际挑战赛\n全国研究生人工智能创新大赛 一等奖\n教育部研究生教育创新计划资助项目\n\n\n\n2022 年\n\nMICCAI LUNA16肺结节检测挑战赛 第3名\n国际医学影像计算竞赛\n\n\n\n2021 年\n\n全国大学生人工智能创新大赛 特等奖\n中国人工智能学会主办"
+  },
+  {
+    "objectID": "awards.html#学术服务",
+    "href": "awards.html#学术服务",
+    "title": "荣誉奖项",
+    "section": "学术服务",
+    "text": "学术服务\n\n期刊审稿人\n\nIEEE Transactions on Medical Imaging\nMedical Image Analysis\nJournal of Biomedical Informatics\nIEEE Journal of Biomedical and Health Informatics\n\n\n\n会议审稿人\n\nMICCAI (2022-2024)\nNeurIPS (2023-2024)\nCVPR (2022-2024)\nICCV (2023)\nECCV (2024)\n\n\n\n学术组织\n\n中国计算机学会(CCF)会员\nIEEE学生会员\n国际医学图像计算与计算机辅助干预学会(MICCAI Society)会员"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "研究成果",
+    "section": "",
+    "text": "Zhang, M., Li, J., & Wang, T. (2024). “Attention-based Multi-scale Feature Fusion for Medical Image Segmentation.” IEEE Transactions on Medical Imaging, 43(2), 578-591. https://doi.org/10.1109/tmi.2024.12345\nLi, J., Zhang, M., & Chen, H. (2023). “Privacy-preserving Federated Learning Framework for Healthcare Data Analysis.” Nature Machine Intelligence, 5(8), 623-635. https://doi.org/10.1038/s42256-023-00123-8\nZhang, M., Wang, T., & Li, J. (2022). “Self-supervised Representation Learning for Electronic Health Records.” Journal of Biomedical Informatics, 128, 104051. https://doi.org/10.1016/j.jbi.2022.104051\nChen, H., Zhang, M., & Wang, T. (2021). “Explainable Deep Learning Models for Medical Diagnosis: Challenges and Opportunities.” Artificial Intelligence in Medicine, 118, 102114. https://doi.org/10.1016/j.artmed.2021.102114"
+  },
+  {
+    "objectID": "publications.html#期刊论文",
+    "href": "publications.html#期刊论文",
+    "title": "研究成果",
+    "section": "",
+    "text": "Zhang, M., Li, J., & Wang, T. (2024). “Attention-based Multi-scale Feature Fusion for Medical Image Segmentation.” IEEE Transactions on Medical Imaging, 43(2), 578-591. https://doi.org/10.1109/tmi.2024.12345\nLi, J., Zhang, M., & Chen, H. (2023). “Privacy-preserving Federated Learning Framework for Healthcare Data Analysis.” Nature Machine Intelligence, 5(8), 623-635. https://doi.org/10.1038/s42256-023-00123-8\nZhang, M., Wang, T., & Li, J. (2022). “Self-supervised Representation Learning for Electronic Health Records.” Journal of Biomedical Informatics, 128, 104051. https://doi.org/10.1016/j.jbi.2022.104051\nChen, H., Zhang, M., & Wang, T. (2021). “Explainable Deep Learning Models for Medical Diagnosis: Challenges and Opportunities.” Artificial Intelligence in Medicine, 118, 102114. https://doi.org/10.1016/j.artmed.2021.102114"
+  },
+  {
+    "objectID": "publications.html#会议论文",
+    "href": "publications.html#会议论文",
+    "title": "研究成果",
+    "section": "会议论文",
+    "text": "会议论文\n\nZhang, M., Li, J., & Chen, H. (2024). “MedViT: Vision Transformer Adaptation for Reliable Disease Detection in Limited-data Scenarios.” In Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS 2024), Online, pp. 3245-3257.\nZhang, M. & Wang, T. (2023). “Contrastive Learning for Anomaly Detection in Medical Images.” In Proceedings of the 25th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2023), Sydney, Australia, pp. 423-435.\nLi, J., Chen, H., & Zhang, M. (2022). “Few-shot Learning Framework for Rare Disease Diagnosis from Medical Images.” In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022), New Orleans, USA, pp. 8721-8730.\nZhang, M., Wang, T., & Li, J. (2021). “Uncertainty-aware Deep Learning for Reliable Clinical Decision Support.” In Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (AISTATS 2021), Virtual Conference, pp. 1542-1553."
+  },
+  {
+    "objectID": "publications.html#预印本",
+    "href": "publications.html#预印本",
+    "title": "研究成果",
+    "section": "预印本",
+    "text": "预印本\n\nZhang, M., Chen, H., & Li, J. (2024). “Transformer-based Multimodal Fusion for Medical Time Series Analysis.” arXiv preprint arXiv:2401.12345. https://arxiv.org/abs/2401.12345\nZhang, M. & Wang, T. (2023). “Foundation Models for Healthcare: Opportunities and Limitations.” medRxiv preprint. https://doi.org/10.1101/2023.05.12.23290123"
+  },
+  {
+    "objectID": "publications.html#专利",
+    "href": "publications.html#专利",
+    "title": "研究成果",
+    "section": "专利",
+    "text": "专利\n\n张明, 李教授, 王教授. (2024). 一种基于深度学习的医学影像智能诊断系统. 中国发明专利, 申请号: CN202410123456.X\nZhang, M., Li, J., & Wang, T. (2023). Method and System for Privacy-preserving Medical Image Analysis. U.S. Patent Application No. 17/123,456."
+  },
+  {
+    "objectID": "publications.html#软件与数据集",
+    "href": "publications.html#软件与数据集",
+    "title": "研究成果",
+    "section": "软件与数据集",
+    "text": "软件与数据集\n\nMedSegNet: 医学影像分割开源工具包\nhttps://github.com/mingzhang-phd/MedSegNet\nHealthFederated: 医疗数据联邦学习框架\nhttps://github.com/mingzhang-phd/HealthFederated\nMedAnomaly: 医学影像异常检测数据集\nhttps://doi.org/10.5281/zenodo.9876543"
+  }
+]

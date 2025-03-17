@@ -1,0 +1,75 @@
+/* Custom CSS for Dr. Zhang Ming's academic website */
+
+/* Base styles */
+body {
+  font-family: "Noto Sans", "Noto Sans CJK SC", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+}
+
+/* Header styling */
+h1, h2, h3, h4, h5, h6 {
+  color: #1a2a6c;
+  font-weight: 600;
+  margin-top: 1.5rem;
+}
+
+h2 {
+  border-bottom: 1px solid #eaecef;
+  padding-bottom: 0.3rem;
+}
+
+/* Link styling */
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #004080;
+}
+
+/* Publication styling */
+.publication-item {
+  margin-bottom: 1rem;
+}
+
+/* Awards styling */
+ul li {
+  margin-bottom: 0.5rem;
+}
+
+/* Profile image styling */
+.quarto-about-jolla .about-image {
+  margin-bottom: 1.5rem;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+/* Footer styling */
+.footer {
+  font-size: 0.9rem;
+  color: #666;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+/* Card styling */
+.card {
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .quarto-about-jolla .about-image {
+    width: 150px;
+    height: 150px;
+  }
+}
